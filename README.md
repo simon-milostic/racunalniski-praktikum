@@ -1,0 +1,2 @@
+# racunalniski-praktikum
+Prvi rep
